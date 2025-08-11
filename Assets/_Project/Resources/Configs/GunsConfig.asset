@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a20236f13f1f4b9ca5c5ac1869267060, type: 3}
+  m_Name: GunsConfig
+  m_EditorClassIdentifier: 
+  Guns:
+  - ID: Fireball
+    Object: {fileID: 136217509441813117, guid: 43e74162c6a55eb45acbc07586057b82, type: 3}
